@@ -1,0 +1,33 @@
+.header2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titulo{
+
+}
+
+.o1{
+  width:3rem;
+  height:1.5rem;
+  border-radius:1rem;
+  font-size:1.7rem;
+  padding:0.3rem 0.2rem;
+  background-color:rgb(255, 101, 44);
+  color:white;
+  
+  position: relative;
+  left: 1rem;
+  
+}
+.btn-github{
+    text-decoration: none;
+    background-color: rgb(8, 2, 36);
+    color: beige;
+    font-weight: 600;
+    padding:0.5rem 2rem;
+    border-radius:3px;
+}
+
+
